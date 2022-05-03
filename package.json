@@ -1,0 +1,24 @@
+{
+  "name": "background",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "animejs": "^3.2.1",
+    "cloudinary": "^1.29.1",
+    "html2canvas": "^1.4.1",
+    "next": "12.1.5",
+    "react": "18.0.0",
+    "react-dom": "18.0.0",
+    "use-react-screenshot": "^3.0.0"
+  },
+  "devDependencies": {
+    "eslint": "8.14.0",
+    "eslint-config-next": "12.1.5"
+  }
+}
